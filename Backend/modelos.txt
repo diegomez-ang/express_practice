@@ -1,0 +1,34 @@
+ENTIDADES BASE DE DATOS
+
+1. Modelo de usuario { 
+    campos: {
+        Nombre
+        Apellido
+        correo
+        contraseña
+        rol (user o admin)
+        imagen
+    }
+}
+
+2. Modelo de Canciones {
+    Número
+    Nombre
+    Duración
+    Archivo
+    _id_album
+}
+
+3. Modelo de album{
+    Titulo
+    Descripción
+    Año
+    imagen
+    _id_artist
+}
+
+4. Modelo de Artista{
+    Nombre_artista
+    Descripción_artista
+
+}
