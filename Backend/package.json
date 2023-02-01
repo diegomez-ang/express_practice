@@ -13,6 +13,6 @@
   "author": "Diegomez-ang",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.9.26"
+    "mongoose": "^5.13.15"
   }
 }
